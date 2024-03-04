@@ -1,0 +1,58 @@
+.login-container {
+    padding: 50px;
+    height: 60vh;
+  }
+
+.input-field {
+  background: #f8f9fa;
+  border: 1px solid #ced4da;
+  color: #495057;
+  font-size: 14px;
+  border-radius: 5px;
+  padding: 8px;
+  width: 100%;
+  margin-bottom: 15px;
+  outline: none;
+}
+
+.input-field:focus {
+  border-color: #3498db;
+}
+
+.error-message {
+  color: #ff0000;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.submit-button {
+    color: #fff;
+    background: #2371a5;
+    border: 1px solid #032d49; /* Eklenen kenarlık (border) */
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: border-color 0.3s; /* Eklenen geçiş efekti */
+  }
+
+.checkbox-field {
+  width: 16px;
+  height: 16px;
+  border: 1px solid #ced4da;
+  border-radius: 3px;
+  background: #f8f9fa;
+  margin-right: 5px;
+  outline: none;
+}
+
+.checkbox-field:focus {
+  border-color: #3498db;
+}
+
+.label-text {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #333;
+}

@@ -1,0 +1,21 @@
+.signup-container {
+  /* padding: 140px;
+  height: 150vh; */
+}
+.input-field {
+  border: 1px solid #ccc;
+  color: #333;
+  font-size: 14px;
+  border-radius: 5px;
+  padding: 8px;
+  width: 100%;
+  margin-bottom: 0px;
+  border-color: #3498db;
+  outline: none;
+}
+
+.text-danger {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+}
